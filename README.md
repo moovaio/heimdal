@@ -19,7 +19,7 @@ have [guidelines for how errors should be formatted](http://jsonapi.org/format/#
 ## Installation
 
 ```bash
-composer require optimus/heimdal ~1.0
+composer require moova/optimus-heimdal dev-master
 ```
 
 Add the service provider to `config/app.php`

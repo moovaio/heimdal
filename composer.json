@@ -1,5 +1,7 @@
 {
-    "name": "optimus/heimdal",
+    "name": "moova/optimus-heimdal",
+    "description":"moova.io fork for esbenp: optimus/heimdal package",
+    "homepage":"https://github.com/moovaio/heimdal",
     "autoload": {
         "psr-4": {
             "Optimus\\Heimdal\\": "src/"
