@@ -13,14 +13,14 @@
         ]
     },
     "require": {
-        "laravel/framework": "^9.0"
+        "laravel/framework": "^12.0"
     },
     "require-dev": {
-        "mockery/mockery": "1.5.*",
-        "orchestra/testbench": "7.*",
-        "phpunit/phpunit": "^9.0",
-        "php-coveralls/php-coveralls": "2.5.*",
-        "bugsnag/bugsnag-laravel": "^2.25"
+        "mockery/mockery": "1.6.*",
+        "orchestra/testbench": "10.3.*",
+        "phpunit/phpunit": "^11.0",
+        "php-coveralls/php-coveralls": "2.8.*",
+        "bugsnag/bugsnag-laravel": "^2.29"
     },
     "suggest": {
         "asm89/stack-cors": "Needed to add CORS headers if add_cors_headers configuration is true",
